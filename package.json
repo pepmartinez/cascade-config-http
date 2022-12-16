@@ -1,7 +1,7 @@
 {
   "name": "cascade-config-http",
   "description": "http extension for cascade-config",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "keywords": [
     "configuration",
     "hierarchy",
@@ -23,12 +23,12 @@
   "license": "GPL-3.0",
   "dependencies": {
     "lodash": "~4.17.21",
-    "superagent": "~7.1.1"
+    "superagent": "~8.0.6"
   },
   "devDependencies": {
     "cascade-config": "~1.5.6",
-    "express": "~4.17.1",
-    "mocha": "~9.2.2",
+    "express": "~4.18.2",
+    "mocha": "~10.2.0",
     "should": "~13.2.3"
   },
   "scripts": {
